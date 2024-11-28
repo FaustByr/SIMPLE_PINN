@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+ENV/
+.env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+#*.ipynb
+
+# VS Code
+.vscode/
+
+# Data files
+*.csv
+*.dll
+*.lib
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Logs
+*.log
